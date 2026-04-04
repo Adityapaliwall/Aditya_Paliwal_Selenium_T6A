@@ -1,0 +1,24 @@
+2026-04-04 16:06:01,928 - utils.loggers - [INFO] - Trying to logged in
+2026-04-04 16:06:16,566 - utils.loggers - [INFO] - Trying to logged in
+2026-04-04 16:08:19,242 - utils.loggers - [INFO] - Trying to login
+2026-04-04 16:08:19,243 - utils.loggers - [ERROR] - Login failed
+2026-04-04 16:13:43,953 - utils.loggers - [INFO] - Trying to login
+2026-04-04 16:13:43,954 - utils.loggers - [ERROR] - Login failed
+2026-04-04 16:19:07,196 - utils.loggers - [INFO] - Opening website
+2026-04-04 16:19:07,751 - utils.loggers - [INFO] - Clicking login link
+2026-04-04 16:19:08,678 - utils.loggers - [INFO] - Entering email
+2026-04-04 16:19:08,939 - utils.loggers - [INFO] - Entering password
+2026-04-04 16:19:09,103 - utils.loggers - [INFO] - Clicking login button
+2026-04-04 16:19:09,257 - utils.loggers - [INFO] - Login steps completed
+2026-04-04 16:24:53,908 - utils.loggers - [INFO] - Opening website
+2026-04-04 16:24:54,854 - utils.loggers - [INFO] - Clicking login link
+2026-04-04 16:24:55,698 - utils.loggers - [INFO] - Entering email
+2026-04-04 16:24:56,135 - utils.loggers - [INFO] - Entering password
+2026-04-04 16:24:56,340 - utils.loggers - [INFO] - Clicking login button
+2026-04-04 16:24:56,482 - utils.loggers - [INFO] - Login steps completed
+2026-04-04 16:25:29,516 - utils.loggers - [INFO] - Opening website
+2026-04-04 16:25:30,065 - utils.loggers - [INFO] - Clicking login link
+2026-04-04 16:25:30,885 - utils.loggers - [INFO] - Entering email
+2026-04-04 16:25:31,347 - utils.loggers - [INFO] - Entering password
+2026-04-04 16:25:31,570 - utils.loggers - [INFO] - Clicking login button
+2026-04-04 16:25:32,624 - utils.loggers - [INFO] - Login steps completed
